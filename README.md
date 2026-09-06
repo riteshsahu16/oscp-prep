@@ -1,13 +1,5 @@
 # OSCP+ Preparation Repository
 
-A comprehensive, lab-first preparation roadmap for OSCP+ and PEN-200 style penetration testing.
-
-Use this README as the master syllabus. Work through each topic, build a lab, practice the technique, document what you learned, and repeat the workflow until you can perform it without a walkthrough.
-
-A deep, lab-first study roadmap for preparing for the **OffSec OSCP+ / PEN-200** style of practical penetration testing.
-
-**Important:** This repository is an educational framework. Use exploitation, credential attacks, tunneling, and post-exploitation techniques only in systems and environments you own or are explicitly authorized to assess. Always verify the current OffSec exam guide, rules, syllabus, and permitted tooling before your exam.
-
 ## Table of Contents
 
 1. [How to Use This Repository](#how-to-use-this-repository)
